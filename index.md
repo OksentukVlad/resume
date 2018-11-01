@@ -16,19 +16,12 @@ Software Developer, Mentor, Team Lead, Consultant
   <a href="https://graphql.org/">GraphQL</a> - 
   <a href="https://www.mongodb.com/">MongoDB</a> - 
   <a href="https://www.apollographql.com/">Apollo</a> - 
-  <a href="https://www.meteor.com/">Meteor</a>
-</div>
-
-## Interested in
-
-<div id="webaddress">
-  <a href="https://en.wikipedia.org/wiki/JavaScript">JS</a> - 
-  <a href="https://nodejs.org/en/">NodeJS</a> - 
-  <a href="https://reactjs.org/">React</a> - 
-  <a href="https://graphql.org/">GraphQL</a> - 
-  <a href="https://www.mongodb.com/">MongoDB</a> - 
-  <a href="https://www.apollographql.com/">Apollo</a> - 
-  <a href="https://www.meteor.com/">Meteor</a>
+  <a href="https://www.meteor.com/">Meteor</a> - 
+  <a href="https://redis.io/">Redis</a> - 
+  <a href="https://expressjs.com/">Express</a> - 
+  <a href="https://d3js.org/">D3.js</a> - 
+  <a href="https://cordova.apache.org/">Cordova</a> - 
+  <a href="https://sass-lang.com/">SASS</a>
 </div>
 
 ## Selfleaders
