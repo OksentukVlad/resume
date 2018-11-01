@@ -7,15 +7,28 @@ Software Developer, Mentor, Team Lead, Consultant
 
 <a href="mailto:oksentukvlad@gmail.com">oksentukvlad@gmail.com</a> - <a href="tel:380508456934">+38 050 845 69 34</a>
 
-## Technologies
+## Current tech stack
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript">JS</a> - 
+  <a href="https://nodejs.org/en/">NodeJS</a> - 
+  <a href="https://reactjs.org/">React</a> - 
+  <a href="https://graphql.org/">GraphQL</a> - 
+  <a href="https://www.mongodb.com/">MongoDB</a> - 
+  <a href="https://www.apollographql.com/">Apollo</a> - 
+  <a href="https://www.meteor.com/">Meteor</a>
+</div>
+
+## Interested in
+
+<div id="webaddress">
+  <a href="https://en.wikipedia.org/wiki/JavaScript">JS</a> - 
+  <a href="https://nodejs.org/en/">NodeJS</a> - 
+  <a href="https://reactjs.org/">React</a> - 
+  <a href="https://graphql.org/">GraphQL</a> - 
+  <a href="https://www.mongodb.com/">MongoDB</a> - 
+  <a href="https://www.apollographql.com/">Apollo</a> - 
+  <a href="https://www.meteor.com/">Meteor</a>
 </div>
 
 ## Selfleaders
@@ -46,6 +59,4 @@ Team Lead, Full-stack developer
 
 JavaScript, Meteor, GraphQL, Apollo, MongoDB, Redis, React, Redux, Scss, Jest, TestCafe
 
-<!-- ### Footer
-
-Last updated: November 2018 -->
+<br/>Last updated: November 2018<br/><br/>
