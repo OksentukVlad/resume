@@ -178,6 +178,7 @@ a:hover {
 	color: #033a71;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
+	max-width: 55%;
 }
 
 #webaddress a {
