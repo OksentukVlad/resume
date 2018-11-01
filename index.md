@@ -10,18 +10,18 @@ Software Developer, Mentor, Team Lead, Consultant
 ## Current tech stack
 
 <div id="webaddress">
-  <a href="https://en.wikipedia.org/wiki/JavaScript">JS</a> - 
-  <a href="https://nodejs.org/en/">NodeJS</a> - 
-  <a href="https://reactjs.org/">React</a> - 
-  <a href="https://graphql.org/">GraphQL</a> - 
-  <a href="https://www.mongodb.com/">MongoDB</a> - 
-  <a href="https://www.apollographql.com/">Apollo</a> - 
-  <a href="https://www.meteor.com/">Meteor</a> - 
-  <a href="https://redis.io/">Redis</a> - 
-  <a href="https://expressjs.com/">Express</a> - 
-  <a href="https://d3js.org/">D3.js</a> - 
-  <a href="https://cordova.apache.org/">Cordova</a> - 
-  <a href="https://sass-lang.com/">SASS</a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">JS</a> - 
+  <a href="https://nodejs.org/en/" target="_blank">NodeJS</a> - 
+  <a href="https://reactjs.org/" target="_blank">React</a> - 
+  <a href="https://graphql.org/" target="_blank">GraphQL</a> - 
+  <a href="https://www.mongodb.com/" target="_blank">MongoDB</a> - 
+  <a href="https://www.apollographql.com/" target="_blank">Apollo</a> - 
+  <a href="https://www.meteor.com/" target="_blank">Meteor</a> - 
+  <a href="https://redis.io/" target="_blank">Redis</a> - 
+  <a href="https://expressjs.com/" target="_blank">Express</a> - 
+  <a href="https://d3js.org/" target="_blank">D3.js</a> - 
+  <a href="https://cordova.apache.org/" target="_blank">Cordova</a> - 
+  <a href="https://sass-lang.com/" target="_blank">SASS</a>
 </div>
 
 #### Experience
