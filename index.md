@@ -7,11 +7,11 @@ Software Developer, Mentor, Team Lead, Consultant
 
 <br/>
 
-<a href="oksentukvlad@gmail.com">oksentukvlad@gmail.com</a> - +38 050 845 69 34
+<a href="mailto:oksentukvlad@gmail.com">oksentukvlad@gmail.com</a> - <a href="tel:380508456934">+38 050 845 69 34</a>
 
 ## Experience
 
-* Projects I've been involved 
+*Projects I've been involved*
 
 ### Selfleaders
 `2017-present`
