@@ -28,6 +28,7 @@ Software Developer, Mentor, Team Lead, Consultant
 
 ## Selfleaders
 `spring 2017 - present`
+
 *Tool for facilitators and participants of self improvement workshops*
 
 ### My role:
@@ -56,6 +57,7 @@ Meteor, GraphQL, Apollo, MongoDB, Redis, React, Redux, Scss, Jest, TestCafe
 
 ## HippoRent, WeFindArt
 `autumn 2016 - spring 2017`
+
 *Tools-intermediaries between tenant/buyer and landlort/seller in different business areas*
 
 ### My role:
@@ -80,6 +82,7 @@ NodeJS, MongoDB, React, Redux, Less, Webpack, Stripe, Auth0
 
 ## MyGrassGrowth
 `summer 2016 - autumn 2016`
+
 *Tool that helps farmers manage the feeding their herds, grazing and mowing their paddocks, based on by user's data and the a set of formulas*
 
 ### My role:
@@ -102,6 +105,7 @@ JavaScript, Meteor, MongoDB, Blaze, Mollie
 
 ## WorkBooking
 `autumn 2015 - summer 2016`
+
 *Place that unites people who are looking for individuals in a specific fields for a specific task at particular time and place; and professionals who are looking for a part-time job*
 
 ### My role:
@@ -124,6 +128,7 @@ Meteor, MongoDB, React, Scss, Jasmine
 
 ## Crmtronic
 `summer 2014 - autumn 2015`
+
 *CRM system with integrated loyalty program for small and medium businesses*
 
 ### My role:
