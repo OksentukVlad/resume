@@ -78,9 +78,9 @@ code {
 }
 
 p code {
-	position: absolute;
-	text-align: right;
-	right: -30%;
+	/*position: absolute;*/
+	text-align: left;
+	/*right: -30%;*/
 }
 
 

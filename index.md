@@ -28,7 +28,6 @@ Software Developer, Mentor, Team Lead, Consultant
 
 ## Selfleaders
 `spring 2017 - present`
-
 *Tool for facilitators and participants of self improvement workshops*
 
 ### My role:
