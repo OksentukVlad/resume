@@ -24,7 +24,7 @@ Software Developer, Mentor, Team Lead, Consultant
   <a href="https://sass-lang.com/" target="_blank">SASS</a>
 </div>
 
-#### Experience
+#### Recent Experience
 
 ## Selfleaders
 `spring 2017 - present`
@@ -42,21 +42,45 @@ Team Lead, Full-stack developer
 
 \- Full app refactoring. Use Apollo/GraphQL instead of Meteor DDP pub/sub. Replace Blaze with React.
 
-\- In terms of management started using Scrum at full power
+\- In terms of management started using Scrum at full power.
 
 \- Optimized back-end code and DB usage. It drastically increased concurrent users capacity in the app and stabilized it.
 
 \- Improved NGINX and HAProxy configs.
 
-\- Implemented end-to-end capacity testing environment via Redline13
+\- Implemented end-to-end capacity testing environment via Redline13.
 
 ### Technology:
 
-JavaScript, Meteor, GraphQL, Apollo, MongoDB, Redis, React, Redux, Scss, Jest, TestCafe
+Meteor, GraphQL, Apollo, MongoDB, Redis, React, Redux, Scss, Jest, TestCafe
 
-## Selfleaders
-`spring 2017 - present`
-*Tool for facilitators and participants of self improvement workshops*
+## HippoRent, WeFindArt
+`autumn 2016 - spring 2017`
+*Tools-intermediaries between tenant/buyer and landlort/seller in different business areas*
+
+### My role:
+
+Full-stack developer
+
+### Team:
+
+2 Developers, 1 QA, 1 PM
+
+### Achievements:
+
+\- Helped Product owner to analyze market and extract the most prioritized features for prototypes/MVPs.
+
+\- Implemented uniform and reusable payment system based on Stripe.
+
+\- Created prototypes and MVPs faster then expected.
+
+### Technology:
+
+NodeJS, MongoDB, React, Redux, Less, Webpack, Stripe, Auth0
+
+## MyGrassGrowth
+`summer 2016 - autumn 2016`
+*Tool that helps farmers manage the feeding their herds, grazing and mowing their paddocks, based on by user's data and the a set of formulas*
 
 ### My role:
 
@@ -64,27 +88,21 @@ Team Lead, Full-stack developer
 
 ### Team:
 
-3 Developers, 1 QA, 1 PM, 1 Consultant
+3 Developers, 1 QA, 1 PM
 
 ### Achievements:
 
-\- Full app refactoring. Use Apollo/GraphQL instead of Meteor DDP pub/sub. Replace Blaze with React.
+\- Integrated payments platform - MOLLIE.
 
-\- In terms of management started using Scrum at full power
-
-\- Optimized back-end code and DB usage. It drastically increased concurrent users capacity in the app and stabilized it.
-
-\- Improved NGINX and HAProxy configs.
-
-\- Implemented end-to-end capacity testing environment via Redline13
+\- Implemented UI for formulas programming.
 
 ### Technology:
 
-JavaScript, Meteor, GraphQL, Apollo, MongoDB, Redis, React, Redux, Scss, Jest, TestCafe
+JavaScript, Meteor, MongoDB, Blaze, Mollie
 
-## Selfleaders
-`spring 2017 - present`
-*Tool for facilitators and participants of self improvement workshops*
+## WorkBooking
+`autumn 2015 - summer 2016`
+*Place that unites people who are looking for individuals in a specific fields for a specific task at particular time and place; and professionals who are looking for a part-time job*
 
 ### My role:
 
@@ -92,22 +110,38 @@ Team Lead, Full-stack developer
 
 ### Team:
 
-3 Developers, 1 QA, 1 PM, 1 Consultant
+4 Developers, 1 QA, 1 PM, 1 UX designer
 
 ### Achievements:
 
-\- Full app refactoring. Use Apollo/GraphQL instead of Meteor DDP pub/sub. Replace Blaze with React.
+\- Implemented uniform calendar with various integrations.
 
-\- In terms of management started using Scrum at full power
-
-\- Optimized back-end code and DB usage. It drastically increased concurrent users capacity in the app and stabilized it.
-
-\- Improved NGINX and HAProxy configs.
-
-\- Implemented end-to-end capacity testing environment via Redline13
+\- Team productivity has been increasing from sprint to sprint.
 
 ### Technology:
 
-JavaScript, Meteor, GraphQL, Apollo, MongoDB, Redis, React, Redux, Scss, Jest, TestCafe
+Meteor, MongoDB, React, Scss, Jasmine
+
+## Crmtronic
+`autumn 2015 - summer 2016`
+*CRM system with integrated loyalty program for small and medium businesses*
+
+### My role:
+
+Full-stack developer
+
+### Team:
+
+6 Developers, 1 QA, 1 PM, 1 UX designer
+
+### Achievements:
+
+\- Created visual programming editor based on Blockly. Users can use it for programming sale scripts and client engagement activities.
+
+\- Implemented custom caching and statistics system.
+
+### Technology:
+
+Ruby, Rails, CoffeeScript, Meteor, Blaze, React, Blockly, MongoDB, PostgreSQL, Stylus
 
 <br/>Last updated: November 2018<br/><br/>
