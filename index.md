@@ -123,7 +123,7 @@ Team Lead, Full-stack developer
 Meteor, MongoDB, React, Scss, Jasmine
 
 ## Crmtronic
-`autumn 2015 - summer 2016`
+`summer 2014 - autumn 2015`
 *CRM system with integrated loyalty program for small and medium businesses*
 
 ### My role:
