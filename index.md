@@ -5,7 +5,7 @@ title: Vlad Oksentiuk CV
 # Vladyslav Oksentiuk
 Software Developer, Mentor, Team Lead, Consultant
 
-<a href="mailto:oksentukvlad@gmail.com">oksentukvlad@gmail.com</a> - <a href="tel:380508456934">+38 050 845 69 34</a>
+<a href="mailto:vlad.oksentiuk@gmail.com">vlad.oksentiuk@gmail.com</a> - <a href="tel:380508456934">+38 050 845 69 34</a>
 
 ## Current tech stack
 
